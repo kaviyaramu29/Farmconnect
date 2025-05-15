@@ -1,4 +1,5 @@
-Farm Connect
+**Farm Connect**
+
 Farm Connect is a B2B digital platform designed to empower farmers by connecting them directly with bulk buyers such as restaurants, canteens, hospitals, and vendors—eliminating intermediaries and ensuring fair pricing. Developed as part of Smart India Hackathon 2024, the solution aims to increase market access, reduce food waste, and improve the livelihoods of small-scale farmers.
 
 🚀 Features
