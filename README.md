@@ -108,7 +108,7 @@ npm install
 
 Configure environment variables:
 
-Create a .env file in both frontend and backend folders with necessary keys (Firebase, payment API keys, etc.).
+Create a .env file in both frontend and backend folders with necessary keys (Firebase).
 
 Run the app:
 
